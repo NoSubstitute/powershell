@@ -5,3 +5,7 @@
 ## The Exchange API parts are working fine.
 ## So it deleted with ease about 1500 Contacts from Exchange, as the AAD part wasn't able to List Users to the array.
 ## Since the array was empty, the script was supposed to delete those contacts, which it did. :-)
+
+## Relevant documentation
+## https://learn.microsoft.com/sv-se/graph/migrate-azure-ad-graph-planning-checklist
+## https://learn.microsoft.com/en-us/graph/api/resources/users?view=graph-rest-1.0
